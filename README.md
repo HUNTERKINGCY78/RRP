@@ -1,8 +1,8 @@
 
 
-git clone 
+git clone https://github.com/HUNTERKINGCY78/RRP
 
-cd
+cd RDP
 
 docker build -t toolboxtap .
 
